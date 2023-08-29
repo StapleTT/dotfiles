@@ -1,0 +1,7 @@
+[Default Applications]
+application/x-xz-compressed-tar=thunar.desktop
+text/css=code-oss.desktop
+
+[Added Associations]
+application/x-xz-compressed-tar=thunar.desktop;
+text/css=code-oss.desktop;

@@ -1,0 +1,29 @@
+2023-08-28 19:44:17.362 [info] Extension host with pid 1343 started
+2023-08-28 19:44:17.442 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-28 19:44:17.482 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-08-28 19:44:17.948 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-08-28 19:44:18.079 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: true, activationEvent: '*'
+2023-08-28 19:44:18.322 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-08-28 19:44:18.525 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-08-28 19:44:18.740 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-28 19:44:19.004 [info] Eager extensions activated
+2023-08-28 19:44:19.016 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-28 19:44:19.116 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-28 19:44:19.231 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-08-28 19:44:38.899 [info] Extension host terminating: renderer closed the MessagePort
+2023-08-28 19:44:38.905 [info] Extension host with pid 1343 exiting with code 0
+2023-08-28 19:44:41.838 [info] Extension host with pid 1577 started
+2023-08-28 19:44:41.838 [info] Skipping acquiring lock for /home/staple/.config/Code - OSS/User/workspaceStorage/8da549cbcc6284643f9d5540c7a89ec1.
+2023-08-28 19:44:41.885 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-08-28 19:44:41.899 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-28 19:44:42.142 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-08-28 19:44:42.145 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: true, activationEvent: '*'
+2023-08-28 19:44:42.351 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-08-28 19:44:42.589 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-08-28 19:44:42.722 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-28 19:44:44.142 [info] Eager extensions activated
+2023-08-28 19:44:44.204 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-28 19:44:44.205 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-28 19:44:44.213 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-08-28 19:46:55.839 [info] Extension host terminating: renderer closed the MessagePort
+2023-08-28 19:46:55.845 [info] Extension host with pid 1577 exiting with code 0

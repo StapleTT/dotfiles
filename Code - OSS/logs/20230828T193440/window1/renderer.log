@@ -1,0 +1,2 @@
+2023-08-28 19:34:45.381 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/staple/.config/waybar/style.css","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-08-28 19:34:50.105 [info] [perf] Render performance baseline is 28ms

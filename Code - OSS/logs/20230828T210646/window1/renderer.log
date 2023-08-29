@@ -1,0 +1,2 @@
+2023-08-28 21:06:47.090 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/staple/rofi/README.md","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-08-28 21:06:50.414 [info] [perf] Render performance baseline is 30ms

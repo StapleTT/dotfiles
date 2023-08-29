@@ -1,0 +1,4 @@
+2023-08-28 19:44:42.685 [info] Revived process, old id 8da549cbcc6284643f9d5540c7a89ec1-8 -> new id 1
+2023-08-28 19:44:42.688 [info] Expanding terminal instance, old id 8da549cbcc6284643f9d5540c7a89ec1-8 -> new id 1
+2023-08-28 19:44:44.118 [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+2023-08-28 19:44:44.118 [info] Persistent process reconnection "1"

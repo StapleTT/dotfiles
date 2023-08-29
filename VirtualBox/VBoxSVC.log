@@ -1,0 +1,90 @@
+00:00:00.003790 main     VirtualBox XPCOM Server 7.0.10 r158379 linux.amd64 (Aug 11 2023 12:19:51) release log
+00:00:00.003794 main     Log opened 2023-08-27T16:18:04.055589000Z
+00:00:00.003795 main     Build Type: release
+00:00:00.003797 main     OS Product: Linux
+00:00:00.003799 main     OS Release: 6.4.11-arch2-1
+00:00:00.003800 main     OS Version: #1 SMP PREEMPT_DYNAMIC Sat, 19 Aug 2023 15:38:34 +0000
+00:00:00.003837 main     DMI Product Name: HP Laptop 17-cn1xxx
+00:00:00.003847 main     DMI Product Version: 
+00:00:00.003852 main     Firmware type: UEFI
+00:00:00.004088 main     Secure Boot: Disabled
+00:00:00.004129 main     Host RAM: 11634MB (11.3GB) total, 11123MB (10.8GB) available
+00:00:00.004133 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.004134 main     Process ID: 6625
+00:00:00.004134 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.033002 main     IPC socket path: /tmp/.vbox-staple-ipc/ipcd
+00:00:00.156162 nspr-2   VirtualBox: object creation starts
+00:00:00.178152 nspr-2   Home directory: '/home/staple/.config/VirtualBox'
+00:00:00.227525 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp1s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.229368 nspr-2   HostDnsMonitor: initializing
+00:00:00.229617 nspr-2   NAT: resolv.conf: nameserver 192.168.0.1
+00:00:00.229641 nspr-2   HostDnsMonitor: updating information
+00:00:00.230335 nspr-2   HostDnsMonitor: old information
+00:00:00.230342 nspr-2     no server entries
+00:00:00.230345 nspr-2     no domain set
+00:00:00.230348 nspr-2     no search string entries
+00:00:00.230350 nspr-2   HostDnsMonitor: new information
+00:00:00.230353 nspr-2     server 1: 192.168.0.1
+00:00:00.230357 nspr-2     domain: cable.rcn.com
+00:00:00.230360 nspr-2     search string 1: cable.rcn.com
+00:00:00.245618 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.248290 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.253861 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.272976 nspr-2   VirtualBox: object created
+00:00:02.060277 nspr-2   Saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:02.184695 nspr-2   Finished saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml"
+00:00:02.295887 nspr-2   Saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:02.376090 nspr-2   Finished saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml"
+00:00:02.450409 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=false aResultDetail=0
+00:00:03.476313 nspr-4   Saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:03.551842 nspr-4   Finished saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml"
+00:00:17.483255 nspr-2   Saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:17.561412 nspr-2   Finished saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml"
+00:40:52.463430 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:41:04.398977 nspr-3   Unattended: README.diskdefines: Did not find both DISKNAME and ARCH. :-/
+00:41:04.399017 nspr-3   Unattended: .disk/info: Unknown: arch='pearOS'
+00:41:04.399025 nspr-3   Unattended: .disk/info: Unknown: diskname='pearOS "ThiccSur" (20210220)'
+00:41:04.399045 nspr-3   Unattended: .disk/info: Did not find DISKNAME or/and ARCH. :-/
+00:41:04.399060 nspr-3   Unattended: RTVfsQueryPathInfo(, '\OS2IMAGE/DISK_0/OS2LDR' (from OS2SE20.SRC),) -> VERR_PATH_NOT_FOUND, fMode=0x0
+00:41:04.412063 nspr-3   Saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:41:04.495978 nspr-3   Finished saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml"
+00:41:04.500337 nspr-3   Saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:41:04.565631 nspr-3   Finished saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml"
+00:41:32.029400 createBase Saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:41:32.113279 createBase Finished saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml"
+00:41:32.152658 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:41:32.156395 nspr-3   Saving settings file "/home/staple/VirtualBox VMs/pearOS/pearOS.vbox" with version "1.19-linux"
+00:41:32.260159 nspr-3   Finished saving settings file "/home/staple/VirtualBox VMs/pearOS/pearOS.vbox"
+00:41:32.260382 nspr-3   Saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:41:32.330000 nspr-3   Finished saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml"
+00:41:32.352391 nspr-5   Saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:41:32.421876 nspr-5   Finished saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml"
+00:41:32.438563 nspr-4   Saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:41:32.513582 nspr-4   Finished saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml"
+00:41:32.514850 nspr-4   Saving settings file "/home/staple/VirtualBox VMs/pearOS/pearOS.vbox" with version "1.19-linux"
+00:41:32.583236 nspr-4   Finished saving settings file "/home/staple/VirtualBox VMs/pearOS/pearOS.vbox"
+00:41:32.600336 nspr-3   Saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:41:32.665493 nspr-3   Finished saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml"
+00:41:32.996684 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:41:33.008659 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:41:33.009262 nspr-3   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:41:33.087496 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:41:33.088004 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:41:34.220883 nspr-2   Launched VM: 872425280 pid: 8793 (0x2259) frontend: GUI/Qt name: pearOS
+00:41:34.235534 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:41:34.236013 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:41:34.247540 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:41:34.248026 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:41:34.721246 Watcher  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The virtual machine 'pearOS' has terminated unexpectedly during startup with exit code 1 (0x1)}, preserve=false aResultDetail=0
+00:41:34.746483 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:41:34.747024 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:41:34.757635 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:41:34.758050 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:41:49.616553 nspr-2   Saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:41:50.034680 nspr-2   Finished saving settings file "/home/staple/.config/VirtualBox/VirtualBox.xml"
+00:42:24.604774 main     VirtualBox: object deletion starts
+00:42:24.604912 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/staple/VirtualBox VMs/pearOS/pearOS.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:42:24.605655 main     HostDnsMonitor: shutting down ...
+00:42:24.616920 main     HostDnsMonitor: shut down
+00:42:24.628005 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:42:24.628186 main     VirtualBox: object deleted

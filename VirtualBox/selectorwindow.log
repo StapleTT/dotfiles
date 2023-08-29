@@ -1,0 +1,24 @@
+00:00:02.109657 VirtualBox GUI VM Selector Window 7.0.10 r158379 linux.amd64 (Aug 11 2023 12:19:51) release log
+00:00:02.109658 Log opened 2023-08-27T16:18:04.389085000Z
+00:00:02.109659 Build Type: release
+00:00:02.109660 OS Product: Linux
+00:00:02.109661 OS Release: 6.4.11-arch2-1
+00:00:02.109661 OS Version: #1 SMP PREEMPT_DYNAMIC Sat, 19 Aug 2023 15:38:34 +0000
+00:00:02.109678 DMI Product Name: HP Laptop 17-cn1xxx
+00:00:02.109683 DMI Product Version: 
+00:00:02.109687 Firmware type: UEFI
+00:00:02.109843 Secure Boot: Disabled
+00:00:02.109864 Host RAM: 11634MB (11.3GB) total, 11117MB (10.8GB) available
+00:00:02.109867 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:02.109867 Process ID: 6567
+00:00:02.109867 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:02.109891 Qt version: 5.15.10
+00:00:02.111747 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:02.137743 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.137765 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:04.234382 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 867x487 x 960x540
+00:41:33.899976 GUI: UIMediumEnumerator: Medium with key={{4b5ce3e2-a370-4c92-8fe2-4f175a275799}} created
+00:41:34.454475 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:41:36.497388 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:42:20.833147 GUI: UICommon: Handling aboutToQuit request..
+00:42:21.389850 GUI: UICommon: aboutToQuit request handled!
